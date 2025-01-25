@@ -5,7 +5,8 @@ _software dev focused on frontend + cloud development_
 ---
 
 ## 🌟 **About Me**
-- AWS Cloud Practitioner
+
+- AWS Developer Associate and Cloud Practitioner
 - Published 'The Progress App' on the iOS App Store.
 - 2 years of frontend experience working at Google (via Tata Consultancy Services)
 - **[View my Resume](https://drive.google.com/file/d/1lEbvJPA_pyGYIsArTv9l0f1p0aD72H49/view?usp=sharing)**
@@ -14,7 +15,17 @@ _software dev focused on frontend + cloud development_
 
 ## 🏅 **Certifications**
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: left;">
+| Title                   | Image                                                                                                                                                                                                     |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AWS Developer Associate | <a href="https://www.credly.com/badges/b4223c18-fc3a-41dd-a26f-b322dca665e9/public_url"><img src="./aws-certified-developer-associate.png" alt="AWS Certified Developer Associate Badge" width="120"></a> |
+| AWS Cloud Practitioner  | <a href="https://www.credly.com/badges/e8e133fc-b578-4d2c-b431-b92570de9597/public_url"><img src="./aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="120"> </a>  |
+
+<!-- | Title                   | Image                                        |
+| ----------------------- | -------------------------------------------- |
+| AWS Developer Associate | ![](./aws-certified-developer-associate.png) |
+| AWS Cloud Practitioner  | ![](./aws-certified-cloud-practitioner.png)  | -->
+
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: left;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <strong style="font-size: 16px; margin-bottom: 8px;">AWS Developer Associate</strong>
     <a href="https://www.credly.com/badges/b4223c18-fc3a-41dd-a26f-b322dca665e9/public_url">
@@ -27,7 +38,7 @@ _software dev focused on frontend + cloud development_
       <img src="./aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="120">
     </a>
   </div>
-</div>
+</div> -->
 
 <!-- ## 🏅 **Certifications**
 
@@ -82,19 +93,11 @@ _software dev focused on frontend + cloud development_
 
 ## 📱 **The Progress App (available on the Apple App Store)**
 
+| Title            | Logo                                                                                                                                                  | Platform |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| The Progress App | <a href="https://apps.apple.com/us/app/the-progress-app/id6503723392"><img src="./the-progress-app-logo.png" alt="The Progress App" width="120"/></a> | iOS      |
+
+<!-- | The Progress App | <a href="https://apps.apple.com/us/app/the-progress-app/id6503723392"><img src="./the-progress-app-logo.png" alt="The Progress App" width="120"/></a> | iOS | -->
+
 <!-- <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: left;"> -->
 <!-- <div> -->
-<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: left">
-  <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
-  <!-- <div style="display: flex; align-items: center;"> -->
-  <div style="display: flex; flex-direction: column">
-  <!-- <div> -->
-    <!-- <strong style="font-size: 16px; margin-bottom: 8px;">Gamify Habit Building with this iOS App, available on the App Store!</strong> -->
-    <strong>Gamify Habit Building with this iOS App</strong>
-    <!-- <strong>Available on the App Store</strong> -->
-    <br>
-    <a href="https://apps.apple.com/us/app/the-progress-app/id6503723392">
-      <img src="./the-progress-app-logo.png" alt="The Progress App" width="120"/>
-    </a>
-  </div>
-</div>
