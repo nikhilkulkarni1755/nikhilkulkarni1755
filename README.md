@@ -5,8 +5,7 @@ _software dev focused on frontend + cloud development_
 ---
 
 ## 🌟 **About Me**
-
-- Software engineer focused on frontend development + cloud solutions
+- AWS Cloud Practitioner
 - Published 'The Progress App' on the iOS App Store.
 - 2 years of frontend experience working at Google (via Tata Consultancy Services)
 - **[View my Resume](https://drive.google.com/file/d/1lEbvJPA_pyGYIsArTv9l0f1p0aD72H49/view?usp=sharing)**
