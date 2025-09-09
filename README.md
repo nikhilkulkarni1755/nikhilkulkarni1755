@@ -1,6 +1,6 @@
 # Nikhil Kulkarni
 
-_software dev focused on frontend + cloud development_
+_software dev focused on MLOps (IaC + Gen AI)_
 
 ---
 
