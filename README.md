@@ -1,6 +1,6 @@
 # Nikhil Kulkarni
 
-_software dev focused on MLOps (IaC + Gen AI)_
+_software dev focused on AI Engineering, MLOps. Building infra and tools which will empower people_
 
 ---
 
